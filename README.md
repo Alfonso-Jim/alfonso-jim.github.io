@@ -1,3 +1,2 @@
 # alfonso-jim.github.io
-Portfolio
-please work
+Enjoy and appreciate how my portfolio funtions!
